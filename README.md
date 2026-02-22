@@ -10,7 +10,7 @@ A full-stack task management application built with:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User Registration & Login
 - JWT-based authentication
@@ -21,7 +21,7 @@ A full-stack task management application built with:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -39,9 +39,9 @@ A full-stack task management application built with:
 
 ---
 
-## 📦 Installation
+##  Installation
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```bash
 git clone <your-repo-url>
