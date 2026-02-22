@@ -15,6 +15,8 @@ app.get("/", (req, res) => {
   res.json({ message: "API running" });
 });
 
+const PORT=5000;
+
 app.listen(process.env.PORT || 5000, () => {
-  console.log("Server started");
+  console.log(`Server started at http://localhost:${PORT}`);
 });

@@ -60,5 +60,5 @@ const authMiddleware = (req, res, next) => {
     });
   }
 };
-
+console.log("JWT_SECRET:", process.env.JWT_SECRET);
 module.exports = authMiddleware;
